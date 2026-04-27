@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tax-debt.openbankruptcyproject.org/sitemap.xml
